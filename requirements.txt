@@ -1,0 +1,25 @@
+# cdk stuff
+aws-cdk-lib
+# aws-cdk.aws-kinesisfirehose-destinations
+aws_cdk.aws-kinesisfirehose
+aws-cdk.aws-kinesisfirehose-destinations-alpha
+constructs
+
+# lambda stuff
+boto3
+awscli
+requests
+pytest
+
+# analysis stuff
+numpy
+pandas
+matplotlib
+seaborn
+
+# dev stuff
+jupyter
+pylint
+rope
+black
+isort
