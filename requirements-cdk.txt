@@ -1,5 +1,5 @@
 # cdk stuff
-aws-cdk-lib
+aws-cdk-lib>=2.0.0
 # aws_cdk.aws-kinesisfirehose
 aws-cdk.aws-kinesisfirehose-destinations-alpha
-constructs
+constructs>=10.0.0
