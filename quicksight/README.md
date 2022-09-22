@@ -4,6 +4,7 @@
 This runs on a file from acloud.guru 5.9 - Demo: Data Analysis and Visualization:
 `https://github.com/ACloudGuru-Resources/Course_AWS_Certified_Machine_Learning/blob/master/Chapter5/car_data.csv`
 
+A Cloud Guru doesn't offer Quicksight within their sandbox accounts.
 
 
 ## Aim
