@@ -1,9 +1,9 @@
 # cdk stuff
-aws-cdk-lib
+aws-cdk-lib>=2.0.0
 # aws-cdk.aws-kinesisfirehose-destinations
-aws_cdk.aws-kinesisfirehose
-aws-cdk.aws-kinesisfirehose-destinations-alpha
-constructs
+# aws_cdk.aws-kinesisfirehose
+# aws-cdk.aws-kinesisfirehose-destinations-alpha
+constructs>=10.0.0
 
 # lambda stuff
 boto3
